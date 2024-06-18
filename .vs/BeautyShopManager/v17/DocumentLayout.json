@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VSCode\\BeautyShopManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\usermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\usermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\App.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml",
+              "RelativeToolTip": "BeautyShopManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:22:08.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BeautyShopManager\\App.xaml.cs",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml.cs",
+              "RelativeToolTip": "BeautyShopManager\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:22:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenu.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:11:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectUserInterface.xaml.cs",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:07:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminMenu.xaml.cs",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:07:53.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:05:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMenu.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:05:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectUserInterface.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:00:50.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "844a48a0-ae99-4352-8fff-bfc12bfca7db",
+        "Display": 1,
+        "X": 47,
+        "Y": -30,
+        "Width": 1555,
+        "Height": 449,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectUserInterface.xaml",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T22:00:09.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
