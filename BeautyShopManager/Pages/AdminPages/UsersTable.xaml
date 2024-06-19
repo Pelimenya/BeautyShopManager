@@ -20,6 +20,10 @@
             <Button Content="Удалить" Click="DeleteUser_Click" Margin="5" />
             <Button Content="Сохранить" Click="SaveUsers_Click" Margin="5" />
             <Button Content="Обновить пользователей" Click="RefreshUsers_Click" Margin="5" />
+            <StackPanel Orientation="Horizontal" Margin="10,0">
+                <TextBlock Text="Поиск:" Margin="5"/>
+                <TextBox x:Name="SearchTextBox" Width="100" Margin="5" TextChanged="SearchTextBox_TextChanged" />
+            </StackPanel>
         </StackPanel>
 
         <DataGrid x:Name="UsersDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True">

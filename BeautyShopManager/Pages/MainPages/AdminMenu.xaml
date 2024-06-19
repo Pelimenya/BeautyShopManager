@@ -23,9 +23,9 @@
                         Height="auto">
             <Controls:HamburgerMenu.ItemsSource>
                 <Controls:HamburgerMenuItemCollection>
-                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Users.png" Label="Пользователи">
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Users.png" Label="Сотрудники">
                         <Controls:HamburgerMenuItem.Tag>
-                            <Frame x:Name="OrderFrame" Source="..\AdminPages\UsersTable.xaml" NavigationUIVisibility="Hidden" />
+                            <Frame x:Name="OrderFrame" Source="..\UserPages\EmployeesTable.xaml" NavigationUIVisibility="Hidden" />
                         </Controls:HamburgerMenuItem.Tag>
                     </Controls:HamburgerMenuGlyphItem>
                     <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Exit.png" Label="Выйти из аккаунта" >

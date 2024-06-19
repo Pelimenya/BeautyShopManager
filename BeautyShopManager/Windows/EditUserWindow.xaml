@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:BeautyShopManager.Windows"
         xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         mc:Ignorable="d"
-        Title="EditUserWindow" Height="450" Width="800">
+        Title="EditUserWindow" Height="280" Width="250" WindowStartupLocation="CenterScreen" MinHeight="280" MinWidth="250">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -21,7 +21,7 @@
             <TextBox x:Name="PasswordTextBox" Text="{Binding Passwordhash}"/>
             <TextBlock Text="Роль"/>
             <TextBox x:Name="RoleTextBox" Text="{Binding Role}"/>
-            <TextBlock Text="Идентификатор сотрудника"/>
+            <TextBlock Text="Фамилия сотрудника"/>
             <ComboBox x:Name="EmployeeComboBox" ItemsSource="{Binding Employees}" DisplayMemberPath="Lastname" SelectedValuePath="Employeeid" SelectedValue="{Binding Employeeid}" Margin="0"/>
         </StackPanel>
 

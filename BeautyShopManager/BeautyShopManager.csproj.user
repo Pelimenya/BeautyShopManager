@@ -25,6 +25,12 @@
     <Compile Update="Pages\MainPages\UserMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\UserPages\EmployeesTable.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EditEmployeeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Windows\EditUserWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -52,6 +58,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\MainPages\UserMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\UserPages\EmployeesTable.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditEmployeeWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Windows\EditUserWindow.xaml">

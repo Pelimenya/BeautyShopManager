@@ -87,6 +87,7 @@ namespace BeautyShopManager.Pages.AdminPages
             }
         }
 
+        //Кнопка утратила свою потребность во время разработки
         private void SaveUsers_Click(object sender, RoutedEventArgs e)
         {
             using (var context = new ContextDataBase())
@@ -110,6 +111,23 @@ namespace BeautyShopManager.Pages.AdminPages
         private void RefreshUsers_Click(object sender, RoutedEventArgs e)
         {
             LoadUsers();
+        }
+
+        private void SearchTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            string searchText = SearchTextBox.Text.ToLower();
+
+            if (string.IsNullOrWhiteSpace(searchText))
+            {
+                UsersDataGrid.ItemsSource = Users;
+                return;
+            }
+
+            // Фильтровать пользователей по фамилии или имени пользователя, содержащим введенный текст
+            var filteredUsers = Users.Where(u => u.Username.ToLower().Contains(searchText) ||
+                                                 (u.Employee != null && u.Employee.Lastname.ToLower().Contains(searchText)));
+
+            UsersDataGrid.ItemsSource = filteredUsers;
         }
     }
 }

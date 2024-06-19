@@ -13,7 +13,7 @@ public partial class Employee
 
     public string Position { get; set; } = null!;
 
-    public DateOnly Hiredate { get; set; }
+    public DateTime Hiredate { get; set; }
 
     public virtual ICollection<User> Users { get; set; } = new List<User>();
 

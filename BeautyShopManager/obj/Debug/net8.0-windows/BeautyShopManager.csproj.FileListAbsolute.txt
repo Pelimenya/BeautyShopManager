@@ -166,3 +166,7 @@ F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\refint\Be
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\BeautyShopManager.pdb
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\BeautyShopManager.genruntimeconfig.cache
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\ref\BeautyShopManager.dll
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\EmployeesTable.g.cs
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\EmployeesTable.baml
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Windows\EditEmployeeWindow.g.cs
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Windows\EditEmployeeWindow.baml
