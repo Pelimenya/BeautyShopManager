@@ -7,6 +7,12 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Pages\AdminPages\UsersTable.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\MainPages\AboutPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\MainPages\AdminMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -19,9 +25,21 @@
     <Compile Update="Pages\MainPages\UserMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Windows\EditUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Assets\HumburgerMenuStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AdminPages\UsersTable.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\MainPages\AboutPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\MainPages\AdminMenu.xaml">
@@ -34,6 +52,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\MainPages\UserMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditUserWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

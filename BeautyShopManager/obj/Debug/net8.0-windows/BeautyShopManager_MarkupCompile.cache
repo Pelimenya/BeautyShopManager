@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 F:\VSCode\BeautyShopManager\BeautyShopManager\App.xaml
-5827372167
-
-14-1068333048
+91214027662
+3-332531887
+17-269982083
 255-248808801
-MainWindow.xaml;Pages\MainPages\AdminMenu.xaml;Pages\MainPages\LoginPage.xaml;Pages\MainPages\SelectUserInterface.xaml;Pages\MainPages\UserMenu.xaml;
+Assets\HumburgerMenuStyles.xaml;MainWindow.xaml;Pages\AdminPages\UsersTable.xaml;Pages\MainPages\AboutPage.xaml;Pages\MainPages\AdminMenu.xaml;Pages\MainPages\LoginPage.xaml;Pages\MainPages\SelectUserInterface.xaml;Pages\MainPages\UserMenu.xaml;Windows\EditUserWindow.xaml;
 
 False
 

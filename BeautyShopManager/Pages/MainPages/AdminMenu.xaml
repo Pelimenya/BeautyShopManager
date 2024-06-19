@@ -4,11 +4,72 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:BeautyShopManager.Pages.MainPages"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="AdminMenu">
 
     <Grid>
-        <DataGrid x:Name="dg" AutoGenerateColumns="True"></DataGrid>
+        <Controls:HamburgerMenu  x:Name="TableMenu"
+                        VerticalAlignment="Stretch" 
+                        DisplayMode="CompactInline"
+                        IsPaneOpen="True"
+                        PaneBackground="#CC99CC"
+                        PaneForeground="#FF444444"  
+                        OptionsItemTemplate="{StaticResource TableMenuItemTemplate}"
+                        ItemTemplate="{StaticResource TableMenuItemTemplate}"
+                        ItemClick="HamburgerMenuControl_OnItemClick"
+                        SelectedIndex="0"
+                        Height="auto">
+            <Controls:HamburgerMenu.ItemsSource>
+                <Controls:HamburgerMenuItemCollection>
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Users.png" Label="Пользователи">
+                        <Controls:HamburgerMenuItem.Tag>
+                            <Frame x:Name="OrderFrame" Source="..\AdminPages\UsersTable.xaml" NavigationUIVisibility="Hidden" />
+                        </Controls:HamburgerMenuItem.Tag>
+                    </Controls:HamburgerMenuGlyphItem>
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Exit.png" Label="Выйти из аккаунта" >
+                        <Controls:HamburgerMenuItem.Tag>
+                            <Frame x:Name="LoginPage" Source=".\LoginPage.xaml" NavigationUIVisibility="Hidden" />
+                        </Controls:HamburgerMenuItem.Tag>
+                    </Controls:HamburgerMenuGlyphItem>
+                </Controls:HamburgerMenuItemCollection>
+            </Controls:HamburgerMenu.ItemsSource>
+            
+            <Controls:HamburgerMenu.OptionsItemsSource>
+                <Controls:HamburgerMenuItemCollection>
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\About.png" Label="Отчёт о материалах" >
+                        <Controls:HamburgerMenuItem.Tag>
+                            <Frame x:Name="AboutPage" Source=".\AboutPage.xaml" NavigationUIVisibility="Hidden" />
+                        </Controls:HamburgerMenuItem.Tag>
+                    </Controls:HamburgerMenuGlyphItem>
+                </Controls:HamburgerMenuItemCollection>
+            </Controls:HamburgerMenu.OptionsItemsSource>
+
+            <Controls:HamburgerMenu.ContentTemplate>
+                <DataTemplate DataType="{x:Type Controls:HamburgerMenuItem}">
+                    <Grid x:Name="TheContentGrid">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="48" />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Border Grid.Row="0"
+                                Background="White">
+                            <TextBlock x:Name="Header"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center"
+                                       FontSize="24"
+                                       Foreground="#FF444444"
+                                       Text="{Binding Label}" />
+                        </Border>
+                        <ContentControl x:Name="TheContent"
+                                        Grid.Row="1"
+                                        Focusable="False"
+                                        Content="{Binding Tag}">
+                        </ContentControl>
+                    </Grid>
+                </DataTemplate>
+            </Controls:HamburgerMenu.ContentTemplate>
+        </Controls:HamburgerMenu>
     </Grid>
 </Page>

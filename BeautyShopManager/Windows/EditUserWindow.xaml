@@ -1,0 +1,33 @@
+﻿<mah:MetroWindow x:Class="BeautyShopManager.Windows.EditUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BeautyShopManager.Windows"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="EditUserWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="10" HorizontalAlignment="Left" Width="200">
+            <TextBlock Text="Username"/>
+            <TextBox x:Name="UsernameTextBox" Text="{Binding Username}"/>
+            <TextBlock Text="Password"/>
+            <TextBox x:Name="PasswordTextBox" Text="{Binding Passwordhash}"/>
+            <TextBlock Text="Role"/>
+            <TextBox x:Name="RoleTextBox" Text="{Binding Role}"/>
+            <TextBlock Text="Employee ID"/>
+            <ComboBox x:Name="EmployeeComboBox" ItemsSource="{Binding Employees}" DisplayMemberPath="Lastname" SelectedValuePath="Employeeid" SelectedValue="{Binding Employeeid}" Margin="0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Сохранить" Click="SaveButton_Click" Margin="5"/>
+            <Button Content="Отмена" Click="CancelButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</mah:MetroWindow>
