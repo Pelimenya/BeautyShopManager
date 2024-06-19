@@ -15,13 +15,13 @@
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0" Margin="10" HorizontalAlignment="Left" Width="200">
-            <TextBlock Text="Username"/>
+            <TextBlock Text="Имя пользователя"/>
             <TextBox x:Name="UsernameTextBox" Text="{Binding Username}"/>
-            <TextBlock Text="Password"/>
+            <TextBlock Text="Пароль"/>
             <TextBox x:Name="PasswordTextBox" Text="{Binding Passwordhash}"/>
-            <TextBlock Text="Role"/>
+            <TextBlock Text="Роль"/>
             <TextBox x:Name="RoleTextBox" Text="{Binding Role}"/>
-            <TextBlock Text="Employee ID"/>
+            <TextBlock Text="Идентификатор сотрудника"/>
             <ComboBox x:Name="EmployeeComboBox" ItemsSource="{Binding Employees}" DisplayMemberPath="Lastname" SelectedValuePath="Employeeid" SelectedValue="{Binding Employeeid}" Margin="0"/>
         </StackPanel>
 

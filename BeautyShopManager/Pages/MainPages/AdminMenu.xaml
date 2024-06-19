@@ -38,7 +38,7 @@
             
             <Controls:HamburgerMenu.OptionsItemsSource>
                 <Controls:HamburgerMenuItemCollection>
-                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\About.png" Label="Отчёт о материалах" >
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\About.png" Label="О программе" >
                         <Controls:HamburgerMenuItem.Tag>
                             <Frame x:Name="AboutPage" Source=".\AboutPage.xaml" NavigationUIVisibility="Hidden" />
                         </Controls:HamburgerMenuItem.Tag>
