@@ -29,6 +29,7 @@ namespace BeautyShopManager.Pages
 
         private void Button_OnClick(object sender, RoutedEventArgs e)
         {
+
             string enteredLogin = login.Text;
             string enteredPassword = password.Password;
 

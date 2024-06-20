@@ -18,4 +18,6 @@ public partial class Employee
     public virtual ICollection<User> Users { get; set; } = new List<User>();
 
     public virtual ICollection<Workhour> Workhours { get; set; } = new List<Workhour>();
+    
+    
 }

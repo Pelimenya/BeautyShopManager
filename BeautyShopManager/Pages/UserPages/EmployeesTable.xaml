@@ -28,11 +28,12 @@
 
         <DataGrid x:Name="EmployeesDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="ID" Binding="{Binding Employeeid}" Width="*" />
-                <DataGridTextColumn Header="Имя" Binding="{Binding Firstname}" Width="*" />
+                <DataGridTextColumn Header="ID" Binding="{Binding Employeeid}" Width="auto" />
+                <DataGridTextColumn Header="Имя" Binding="{Binding Firstname}" Width="auto" />
                 <DataGridTextColumn Header="Фамилия" Binding="{Binding Lastname}" Width="*" />
                 <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="*" />
-                <DataGridTextColumn Header="Дата найма" Binding="{Binding Hiredate, StringFormat={}{0:dd.MM.yyyy}}" Width="*" />
+                    <DataGridTextColumn Header="Дата найма" Binding="{Binding Hiredate, StringFormat={}{0:dd.MM.yyyy}}" Width="*" />
+                <DataGridTextColumn Header="Общее время работы" Binding="{Binding AllHoursFormatted}" Width="*" />
             </DataGrid.Columns>
         </DataGrid>
     </Grid>

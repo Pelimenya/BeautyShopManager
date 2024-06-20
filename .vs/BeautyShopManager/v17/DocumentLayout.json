@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\VSCode\\BeautyShopManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\userpages\\employeestable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\userpages\\employeestable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\usermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\usermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|solutionrelative:beautyshopmanager\\pages\\mainpages\\selectuserinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65F50817-FFA8-474E-87F0-1DC653C8DF26}|BeautyShopManager\\BeautyShopManager.csproj|f:\\vscode\\beautyshopmanager\\beautyshopmanager\\windows\\editemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -132,15 +136,11 @@
         },
         {
           "DockedHeight": 116,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 34,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -160,11 +160,28 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml.cs",
+              "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:47:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\App.xaml.cs",
@@ -172,12 +189,11 @@
               "RelativeToolTip": "BeautyShopManager\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T18:10:24.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T18:10:24.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EditEmployeeWindow.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditEmployeeWindow.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Windows\\EditEmployeeWindow.xaml.cs",
@@ -185,24 +201,22 @@
               "RelativeToolTip": "BeautyShopManager\\Windows\\EditEmployeeWindow.xaml.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAA0wCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:11:44.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:11:44.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EditEmployeeWindow.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditEmployeeWindow.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Windows\\EditEmployeeWindow.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditEmployeeWindow.xaml",
               "RelativeToolTip": "BeautyShopManager\\Windows\\EditEmployeeWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T17:06:48.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:06:48.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Models\\Employee.cs",
@@ -210,12 +224,11 @@
               "RelativeToolTip": "BeautyShopManager\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:01:44.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:01:44.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserMenu.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml.cs",
@@ -223,49 +236,46 @@
               "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAUwB0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T16:57:20.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T16:57:20.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmployeesTable.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml.cs",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml.cs",
               "RelativeToolTip": "BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFIAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwE4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T16:46:06.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmployeesTable.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml",
               "RelativeToolTip": "BeautyShopManager\\Pages\\UserPages\\EmployeesTable.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T16:35:19.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T16:35:19.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserMenu.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
               "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\UserMenu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T16:31:32.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T16:31:32.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\LoginPage.xaml",
@@ -276,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ContextDataBase.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Models\\ContextDataBase.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Models\\ContextDataBase.cs",
@@ -288,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AboutPage.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AboutPage.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AboutPage.xaml.cs",
@@ -300,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AboutPage.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AboutPage.xaml",
@@ -311,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EditUserWindow.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Windows\\EditUserWindow.xaml.cs",
@@ -319,12 +329,11 @@
               "RelativeToolTip": "BeautyShopManager\\Windows\\EditUserWindow.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAIwDAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:37:51.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:37:51.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\MainWindow.xaml",
@@ -335,19 +344,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EditUserWindow.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditUserWindow.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Windows\\EditUserWindow.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Windows\\EditUserWindow.xaml",
               "RelativeToolTip": "BeautyShopManager\\Windows\\EditUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T13:27:12.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:27:12.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Models\\User.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Models\\User.cs",
@@ -359,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UsersTable.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml.cs",
@@ -367,12 +375,11 @@
               "RelativeToolTip": "BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAowFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:14:43.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:14:43.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\App.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\App.xaml",
@@ -384,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SelectUserInterface.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml.cs",
@@ -396,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AdminMenu.xaml.cs",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
@@ -404,24 +411,22 @@
               "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAjwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:33:47.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:33:47.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AdminMenu.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
               "RelativeToolTip": "BeautyShopManager\\Pages\\MainPages\\AdminMenu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T12:33:28.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:33:28.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Exit.png - PNG [100x100, 32 bit, PNG]",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Assets\\Images\\Exit.png",
               "RelativeDocumentMoniker": "BeautyShopManager\\Assets\\Images\\Exit.png",
@@ -433,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "About.png - PNG [100x100, 32 bit, PNG]",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Assets\\Images\\About.png",
               "RelativeDocumentMoniker": "BeautyShopManager\\Assets\\Images\\About.png",
@@ -445,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Users.png - PNG [100x100, 32 bit, PNG]",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Assets\\Images\\Users.png",
               "RelativeDocumentMoniker": "BeautyShopManager\\Assets\\Images\\Users.png",
@@ -457,19 +462,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UsersTable.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml",
               "ToolTip": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml",
               "RelativeToolTip": "BeautyShopManager\\Pages\\AdminPages\\UsersTable.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-19T10:43:10.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T10:43:10.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HumburgerMenuStyles.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Assets\\HumburgerMenuStyles.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Assets\\HumburgerMenuStyles.xaml",
@@ -481,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SelectUserInterface.xaml",
               "DocumentMoniker": "F:\\VSCode\\BeautyShopManager\\BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",
               "RelativeDocumentMoniker": "BeautyShopManager\\Pages\\MainPages\\SelectUserInterface.xaml",

@@ -32,7 +32,7 @@
                     <StackPanel HorizontalAlignment="Center" Margin="0,20">
                         <iconPacks:MaterialDesign Kind="VerifiedUser" Width="100" Height="100"/>
                     </StackPanel>
-                    <TextBlock Text="Меню администратора" FontSize="20" Margin="0,50"></TextBlock>
+                    <TextBlock Text="Меню Администратора" FontSize="20" Margin="0,50"></TextBlock>
                 </StackPanel>
             </Button.Content>
         </Button>
