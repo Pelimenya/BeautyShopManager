@@ -176,3 +176,4 @@ F:\VSCode\BeautyShopManager\BeautyShopManager\bin\Debug\net8.0-windows\Assets\Im
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\SalesPlanPage.g.cs
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\SalesPlanPage.baml
 F:\VSCode\BeautyShopManager\BeautyShopManager\bin\Debug\net8.0-windows\Assets\Images\Sales.png
+F:\VSCode\BeautyShopManager\BeautyShopManager\bin\Debug\net8.0-windows\Assets\Images\Heart.ico

@@ -11,7 +11,7 @@ false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 F:\VSCode\BeautyShopManager\BeautyShopManager\App.xaml
 13948883329
-5974395883
+61263339955
 23-1434805113
 255-248808801
 Assets\HumburgerMenuStyles.xaml;MainWindow.xaml;Pages\AdminPages\UsersTable.xaml;Pages\MainPages\AboutPage.xaml;Pages\MainPages\AdminMenu.xaml;Pages\MainPages\LoginPage.xaml;Pages\MainPages\SelectUserInterface.xaml;Pages\MainPages\UserMenu.xaml;Pages\UserPages\EmployeesTable.xaml;Pages\UserPages\LossesPage.xaml;Pages\UserPages\SalesPlanPage.xaml;Windows\EditEmployeeWindow.xaml;Windows\EditUserWindow.xaml;

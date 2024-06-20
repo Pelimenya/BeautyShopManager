@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\Images\Heart.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -30,6 +31,11 @@
     </Content>
     <None Remove="Assets\Images\Sales.png" />
     <Content Include="Assets\Images\Sales.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Remove="Assets\Images\Heart.png" />
+    <None Remove="Assets\Images\Heart.ico" />
+    <Content Include="Assets\Images\Heart.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
