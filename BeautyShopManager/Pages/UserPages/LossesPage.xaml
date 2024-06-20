@@ -3,19 +3,33 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-      xmlns:local="clr-namespace:BeautyShopManager.Pages.UserPages"
-      xmlns:sys="clr-namespace:System;assembly=System.Runtime"
       mc:Ignorable="d"
       Title="LossesPage" Height="450" Width="800">
-    <Grid>
+      <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="10">
             <TextBlock Text="Выберите месяц:" Margin="5"/>
-            <DatePicker x:Name="MonthPicker" Width="150" Margin="5" DisplayDate="{x:Static sys:DateTime.Now}" SelectedDateChanged="MonthPicker_SelectedDateChanged"/>
+            <ComboBox x:Name="MonthComboBox" Width="100" Margin="5" SelectionChanged="DateSelectionChanged">
+                <ComboBoxItem Content="Январь" Tag="1" />
+                <ComboBoxItem Content="Февраль" Tag="2" />
+                <ComboBoxItem Content="Март" Tag="3" />
+                <ComboBoxItem Content="Апрель" Tag="4" />
+                <ComboBoxItem Content="Май" Tag="5" />
+                <ComboBoxItem Content="Июнь" Tag="6" />
+                <ComboBoxItem Content="Июль" Tag="7" />
+                <ComboBoxItem Content="Август" Tag="8" />
+                <ComboBoxItem Content="Сентябрь" Tag="9" />
+                <ComboBoxItem Content="Октябрь" Tag="10" />
+                <ComboBoxItem Content="Ноябрь" Tag="11" />
+                <ComboBoxItem Content="Декабрь" Tag="12" />
+            </ComboBox>
+            <TextBlock Text="Выберите год:" Margin="5"/>
+            <ComboBox x:Name="YearComboBox" Width="100" Margin="5" SelectionChanged="DateSelectionChanged"/>
         </StackPanel>
 
         <DataGrid x:Name="LossesDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" Margin="10">
@@ -28,5 +42,10 @@
                 <DataGridTextColumn Header="Всего потерь" Binding="{Binding TotalLoss}" Width="*" />
             </DataGrid.Columns>
         </DataGrid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Grid.Row="2">
+            <TextBlock Text="Общее количество потерь за месяц: " Margin="5" FontSize="14"/>
+            <TextBlock x:Name="TotalLossesTextBlock" Margin="20,10"/>
+        </StackPanel>
     </Grid>
 </Page>

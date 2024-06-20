@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:BeautyShopManager"
         xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         mc:Ignorable="d"
-        Title="BeautyShopManager" Height="450" Width="800" MinHeight="450" MinWidth="800">
+        Title="BeautyShopManager" Height="520" Width="950" MinHeight="520" MinWidth="950">
     <Grid>
         <Frame x:Name="Framemain" NavigationUIVisibility="Hidden" Source=".\Pages\MainPages\LoginPage.xaml"></Frame>
     </Grid>
