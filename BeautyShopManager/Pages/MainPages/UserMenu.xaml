@@ -25,9 +25,16 @@
                 <Controls:HamburgerMenuItemCollection>
                     <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Users.png" Label="Пользователи">
                         <Controls:HamburgerMenuItem.Tag>
-                            <Frame x:Name="OrderFrame" Source="..\UserPages\EmployeesTable.xaml" NavigationUIVisibility="Hidden" />
+                            <Frame x:Name="EmployeesTable" Source="..\UserPages\EmployeesTable.xaml" NavigationUIVisibility="Hidden" />
                         </Controls:HamburgerMenuItem.Tag>
                     </Controls:HamburgerMenuGlyphItem>
+                    
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Money.png" Label="Пользователи">
+                        <Controls:HamburgerMenuItem.Tag>
+                            <Frame x:Name="LossesPage" Source="..\UserPages\LossesPage.xaml" NavigationUIVisibility="Hidden" />
+                        </Controls:HamburgerMenuItem.Tag>
+                    </Controls:HamburgerMenuGlyphItem>
+                    
                     <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Exit.png" Label="Выйти из аккаунта" >
                         <Controls:HamburgerMenuItem.Tag>
                             <Frame x:Name="LoginPage" Source=".\LoginPage.xaml" NavigationUIVisibility="Hidden" />
