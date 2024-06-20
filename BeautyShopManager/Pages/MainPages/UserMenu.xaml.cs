@@ -29,9 +29,7 @@ namespace BeautyShopManager.Pages.MainPages
         {
             var menuItem = (HamburgerMenuGlyphItem)args.ClickedItem;
             if (menuItem != null && menuItem.Label == "Выйти из аккаунта")
-            {
                 NavigationService.Navigate(new LoginPage());
-            }
             TableMenu.SetCurrentValue(ContentProperty, args.ClickedItem);
             TableMenu.SetCurrentValue(HamburgerMenu.IsPaneOpenProperty, false);
         }

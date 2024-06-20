@@ -22,7 +22,7 @@ namespace BeautyShopManager.Pages.UserPages
         private void PopulateYearComboBox()
         {
             int currentYear = DateTime.Now.Year;
-            for (int year = currentYear - 10; year <= currentYear + 10; year++)
+            for (int year = currentYear - 10; year <= currentYear; year++)
             {
                 YearComboBox.Items.Add(new ComboBoxItem { Content = year.ToString(), Tag = year });
             }

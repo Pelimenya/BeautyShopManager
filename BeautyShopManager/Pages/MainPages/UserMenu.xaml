@@ -19,6 +19,7 @@
                       OptionsItemTemplate="{StaticResource TableMenuItemTemplate}"
                       ItemTemplate="{StaticResource TableMenuItemTemplate}"
                       ItemClick="HamburgerMenuControl_OnItemClick"
+                      OptionsItemClick="HamburgerMenuControl_OnItemClick"
                       SelectedIndex="0"
                       Height="auto">
             <Controls:HamburgerMenu.ItemsSource>
@@ -29,9 +30,15 @@
                         </Controls:HamburgerMenuItem.Tag>
                     </Controls:HamburgerMenuGlyphItem>
                     
-                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Money.png" Label="Пользователи">
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Money.png" Label="Потери">
                         <Controls:HamburgerMenuItem.Tag>
                             <Frame x:Name="LossesPage" Source="..\UserPages\LossesPage.xaml" NavigationUIVisibility="Hidden" />
+                        </Controls:HamburgerMenuItem.Tag>
+                    </Controls:HamburgerMenuGlyphItem>
+                    
+                    <Controls:HamburgerMenuGlyphItem Glyph="..\Assets\Images\Sales.png" Label="План продаж">
+                        <Controls:HamburgerMenuItem.Tag>
+                            <Frame x:Name="SalesPlanPage" Source="..\UserPages\SalesPlanPage.xaml" NavigationUIVisibility="Hidden" />
                         </Controls:HamburgerMenuItem.Tag>
                     </Controls:HamburgerMenuGlyphItem>
                     

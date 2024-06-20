@@ -16,4 +16,5 @@ public partial class Salesplan
     public int Userid { get; set; }
 
     public virtual User User { get; set; } = null!;
+    public decimal Difference => Targetamount - Achievedamount;
 }

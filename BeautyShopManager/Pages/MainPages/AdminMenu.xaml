@@ -19,6 +19,7 @@
                         OptionsItemTemplate="{StaticResource TableMenuItemTemplate}"
                         ItemTemplate="{StaticResource TableMenuItemTemplate}"
                         ItemClick="HamburgerMenuControl_OnItemClick"
+                        OptionsItemClick="HamburgerMenuControl_OnItemClick"
                         SelectedIndex="0"
                         Height="auto">
             <Controls:HamburgerMenu.ItemsSource>

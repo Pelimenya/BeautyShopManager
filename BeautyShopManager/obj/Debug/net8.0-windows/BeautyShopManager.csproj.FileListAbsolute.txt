@@ -173,3 +173,6 @@ F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Windows\E
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\LossesPage.g.cs
 F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\LossesPage.baml
 F:\VSCode\BeautyShopManager\BeautyShopManager\bin\Debug\net8.0-windows\Assets\Images\money.png
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\SalesPlanPage.g.cs
+F:\VSCode\BeautyShopManager\BeautyShopManager\obj\Debug\net8.0-windows\Pages\UserPages\SalesPlanPage.baml
+F:\VSCode\BeautyShopManager\BeautyShopManager\bin\Debug\net8.0-windows\Assets\Images\Sales.png
